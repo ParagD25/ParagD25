@@ -21,7 +21,7 @@
  
 ### <h2 align="center">🔥 My Contribution Streak 🔥</h2>
 <p align="center">
-  <a href="https://github.com/ParagD25/github-readme-streak-stats">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=ParagD25&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=0000">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParagD25&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=0000"/>
     
   </a>
