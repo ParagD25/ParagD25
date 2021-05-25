@@ -2,11 +2,11 @@
 
 
 <p align='center'>
-!![Profile views](https://gpvc.arturio.dev/ParagD25) <br/>  
+(https://gpvc.arturio.dev/ParagD25) <br/>  
 </p>
  
  
- ### <h2 align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Parag Durafe 👋, a Programmer from<mark>INDIA<mark/>
+ ### <h2 align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Parag Durafe
  
  <h4>   
     
@@ -35,9 +35,9 @@
     
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+ 
     <img src="https://github-profile-trophy.vercel.app/?username=ParagD25&theme=darkhub"/>
-  </a>
+  
 </p>
     
 ### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
