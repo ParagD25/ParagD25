@@ -45,7 +45,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact" />
 </p>
-<br>
+
 ![](https://komarev.com/ghpvc/?username=ParagD25)<br/>
 
 
