@@ -7,7 +7,7 @@
 
 <h4/> 
 
-### <h2 align="center">🤳 Feel Free to **Contact Me**<h2/>
+### <h2 align="center">🤳 Feel Free to **Contact Me**</h2>
 <body>
     <div class="img1">
 <p align='center'>
@@ -19,21 +19,21 @@
    
  <br/>
  
-### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
+### <h2 align="center">🔥 My Contribution Streak 🔥</h2>
 <p align="center">
   <a href="https://github.com/ParagD25/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParagD25&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=0000"/>
     
   </a>
     
-### <h2 align="center">🏆 Github Trophies 🏆<h2/>
+### <h2 align="center">🏆 Github Trophies 🏆</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <a href="https://github-profile-trophy.vercel.app/?username=ParagD25&theme=darkhub&no-frame=true" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=ParagD25&theme=darkhub&no-frame=true"/>
  </a>
 </p>
     
-### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
+### <h2 align="center">⚙️ Github Stats ⚙️</h2>   
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ParagD25&theme=react-dark" />
 </p>
