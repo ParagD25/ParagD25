@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&layout=compact)]
-[![trophy](https://github-profile-trophy.vercel.app/?username=ParagD25)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact)]
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=ParagD25&theme=darkhub)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ParagD25)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ParagD25)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ParagD25&theme=react-dark)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ParagD25&theme=chartreuse-dark)  
 
 ![Profile views](https://gpvc.arturio.dev/ParagD25)  
+
 
 
 
