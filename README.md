@@ -1,30 +1,61 @@
-### Hi there, I am Parag 👋
 
-<!--
-**ParagD25/ParagD25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact)]
+<p align='center'>
+!![Profile views](https://gpvc.arturio.dev/ParagD25) <br/>  
+</p>
+ 
+ 
+ ### <h2 align="center">Hey there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Parag Durafe 👋, a Programmer from<mark>INDIA<mark/>
+ 
+ <h4>   
+    
+- 2<sup>nd</sup> Year ECE Student.
+- Currently Pursuing **B.Tech From **Medicaps University** Indore.**
+
+<h4/> 
+
+### <h2 align="center">🤳 Feel Free to **Contact Me**<h2/>
+ <body>
+    <div class="img1">
+<p align='center'>
+<a href="https://www.linkedin.com/in/parag-durafe-b991b1191/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:paragdurafe25@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>
+<p/>
+</div>
+</body>
+   
+ <br/>
+ 
+ ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
+<p align="center">
+  <a href="https://github.com/ParagD25/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParagD25&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=0000"/>
+    
+  </a>
+    
+### <h2 align="center">🏆 Github Trophies 🏆<h2/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=ParagD25&theme=darkhub"/>
+  </a>
+</p>
+    
+### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=ParagD25&theme=react-dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact" />
+</p>
+
   
-![trophy](https://github-profile-trophy.vercel.app/?username=ParagD25&theme=darkhub)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ParagD25&theme=react-dark)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ParagD25&theme=chartreuse-dark)  
-
-![Profile views](https://gpvc.arturio.dev/ParagD25)  
 
 
 
