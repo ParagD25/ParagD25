@@ -12,7 +12,7 @@
     <div class="img1">
 <p align='center'>
 <a href="https://www.linkedin.com/in/parag-durafe-b991b1191/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         
-<a href="mailto:paragdurafe25@gmail.com" target="_blank"><img src="https://icons8.com/icon/38161/gmail" width="52" alt="Email"></a>
+<a href="mailto:paragdurafe25@gmail.com" target="_blank"><img src="https://iconarchive.com/show/google-play-icons-by-marcus-roberto/Gmail-icon.html" width="52" alt="Email"></a>
 <p/>
 </div>
 </body>
