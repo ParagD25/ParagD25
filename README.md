@@ -4,26 +4,25 @@
   </a>
 </h1>
 
-
-<h5 align="center">
- 
-  <code><a href="https://www.linkedin.com/in/parag-durafe-b991b1191/" title="LinkedIn Profile"><img width="22" src=""> LinkedIn</a></code>
-  <code><a href="mailto:paragdurafe25@gmail.com" target="_blank"><img src="" width="22">Gmail</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src=""> Stack Overflow</a></code>
-  <code><a href="https://www.twitter.com/" title="Instagram Profile"><img width="22" src=""> Instagram</a></code>
-  <code><a href="https://discord.gg/" alt="Discord"><img width="32px" src=""/>Discord</a></code>
-
-</h5>
-<br>
 I am Parag Durafe, currently pusruing B.Tech in Electronics and Communication Engineering 📜 from Medi-caps University 🏫.
 I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br><br><br>
+<br><br>
+
+<h2 align="center">📫 Reach me out 📫</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/parag-durafe-b991b1191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/ParagDurafe"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:paragdurafe@outlook.com?subject=Hello%20Parag,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+<br>
+
 
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ParagD25&theme=react-dark" />
 </p>
 
-### 🔨 Languages and Tools:
+### ⚡ Languages and Tools ⚡
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
@@ -60,8 +59,8 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
  
 <p align="center">
-<img align="left" width=380 height=250 src="https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=chartreuse-dark" />
-<img align="right" width=380 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact" />
+<img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=chartreuse-dark" />
+<img align="right" width=390 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
