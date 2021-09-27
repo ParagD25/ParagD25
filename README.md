@@ -60,8 +60,8 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
  
 <p align="center">
-<img align="left" width=450 height=250 src="https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=chartreuse-dark" />
-<img align="right" width=450 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact" />
+<img align="left" width=380 height=250 src="https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=chartreuse-dark" />
+<img align="right" width=380 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
