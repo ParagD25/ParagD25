@@ -1,18 +1,20 @@
-<h1 align="center">
+<h4 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Gemunu+Libre&color=02BCF7&size=35&center=true&width=500&height=75&lines=Hey+There!+%F0%9F%91%8B;I'm+Parag+Durafe+%F0%9F%92%BB.">
   </a>
-</h1>
+</h4>
 
 I am Parag Durafe, currently pusruing B.Tech in Electronics and Communication Engineering 📜 from Medi-caps University 🏫.
 I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br><br>
 
-<h2 align="center">📫 Reach me out 📫</h2>
+<h2 align="center">📫 Reach me out 📫</h2><br>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/parag-durafe-b991b1191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/ParagDurafe"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:paragdurafe@outlook.com?subject=Hello%20Parag,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/ParagDurafe"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://discord.gg/Parag#0437"><img src="https://img.shields.io/badge/-discord-7289d9?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 <br/>
 <br>
@@ -21,33 +23,41 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ParagD25&theme=react-dark" />
 </p>
+<br>
 
-### ⚡ Languages and Tools ⚡
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
+### <h2 align="center">⚡ Languages and Tools ⚡</h2>
 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<br>
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+### Languages 👨‍💻
 
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+![Python](https://img.shields.io/badge/-python-%230077B5.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FF1C1C.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230077B5.svg?&style=for-the-badge&logo=SQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<br>
 
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+### Libraries & Framework 📚
 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+![Django](https://img.shields.io/badge/-Django-013F2A.svg?&style=for-the-badge&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![Keras](https://img.shields.io/badge/-Keras-FF0000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-6174FF.svg?&style=for-the-badge&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-%23000000?style=for-the-badge&logo=Pandas&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/-OpenCV-%230077B5.svg?style=for-the-badge&logo=OpenCV&logoColor=ffffff)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23E44D27?style=for-the-badge&logo=Tensorflow&logoColor=ffffff)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<br>
 
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+### Tools ⚙️
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![Github](https://img.shields.io/badge/-Github-444444?style=for-the-badge&logo=github&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/-Heroku-480048.svg?&style=for-the-badge&logo=Heroku&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
 <br>
 
@@ -59,8 +69,8 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
  
 <p align="center">
-<img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=chartreuse-dark" />
-<img align="right" width=390 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=chartreuse-dark&layout=compact" />
+<img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=ParagD25&hide=contribs&show_icons=true&theme=github_dark&hide_border=true" />
+<img align="right" width=390 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParagD25&theme=github_dark&layout=compact&hide_border=true" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
