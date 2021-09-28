@@ -13,7 +13,7 @@ I am a versatilist and easily adapt to different hats depending on what the proj
   <a target="_blank"href="https://www.linkedin.com/in/parag-durafe-b991b1191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:paragdurafe@outlook.com?subject=Hello%20Parag,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/ParagDurafe"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://discord.gg/Parag#0437"><img src="https://img.shields.io/badge/-discord-7289d9?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://discord.gg/"><img src="https://img.shields.io/badge/-discord-7289d9?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 <br/>
