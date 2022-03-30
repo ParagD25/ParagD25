@@ -33,14 +33,14 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 
 ### Reach me out 📫
 
-<a href="https://www.linkedin.com/in/parag-durafe-b991b1191/"> Linkedin </a> <br>
-<a href="https://twitter.com/ParagDurafe"> Twitter </a> <br>
-<a href="https://paragdurafe.vercel.app/"> Personal Portfolio </a> <br>
-<a href="https://medium.com/@paragdurafe"> Medium </a>
+- <a href="https://www.linkedin.com/in/parag-durafe-b991b1191/"> Linkedin </a> <br>
+- <a href="https://twitter.com/ParagDurafe"> Twitter </a> <br>
+- <a href="https://paragdurafe.vercel.app/"> Personal Portfolio </a> <br>
+- <a href="https://medium.com/@paragdurafe"> Medium </a>
 
 ##### Looking forward to expand my knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
-#### Currently open for full-time/intern job roles in Python, Machine Learning, AI, Computer Vision and Deep Learning
+<!-- #### Currently open for full-time/intern job roles in Python, Machine Learning, AI, Computer Vision and Deep Learning -->
 
 
 ![](https://komarev.com/ghpvc/?username=ParagD25)
